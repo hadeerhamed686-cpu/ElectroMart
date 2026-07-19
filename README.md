@@ -1,16 +1,37 @@
-# React + Vite
+# ⚡ ElectroMart
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern e-commerce website for electronics and home appliances built with **React JS** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 https://electro-mart-orcin-gamma.vercel.app/
 
-## React Compiler
+## 📌 About The Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+ElectroMart is a responsive e-commerce frontend application that allows users to browse electronic products, search for products, filter by category, and manage their shopping cart.
 
-## Expanding the ESLint configuration
+The project provides a modern shopping experience with a clean UI and smooth user interactions.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- 🔐 User Login
+- 📝 User Register
+- 🏠 Home Page
+- 🛒 Products Page
+- 🔎 Search Products
+- 🏷️ Filter Products by Category
+- ➕ Add Products to Cart
+- 🗑️ Remove Products from Cart
+- 💾 Save Cart Data Using LocalStorage
+- 📱 Fully Responsive Design
+
+## 🛠️ Technologies Used
+
+- React JS
+- React Router DOM
+- Tailwind CSS
+- Vite
+- JavaScript (ES6)
+- LocalStorage
+
+## 📂 Project Structure
