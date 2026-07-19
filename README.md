@@ -35,3 +35,22 @@ The project provides a modern shopping experience with a clean UI and smooth use
 - LocalStorage
 
 ## 📂 Project Structure
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](./screenshots/home.jpeg)
+
+### 🛍️ Products Page
+![Products](./screenshots/products.jpeg)
+
+### 🛒 Cart Page
+![Cart](./screenshots/cart.jpeg)
+
+### 🔐 Login Page
+![Login](./screenshots/login.jpeg)
+
+### 📝 Register Page
+![Register](./screenshots/register.jpeg)
+
+### 📄 About Page
+![About](./screenshots/about.jpeg)
